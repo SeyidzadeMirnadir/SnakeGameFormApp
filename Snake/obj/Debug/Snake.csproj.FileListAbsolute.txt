@@ -1,0 +1,9 @@
+C:\Users\P501\Documents\Visual Studio 2017\Projects\snake-master\Snake\bin\Debug\Snake.exe.config
+C:\Users\P501\Documents\Visual Studio 2017\Projects\snake-master\Snake\bin\Debug\Snake.exe
+C:\Users\P501\Documents\Visual Studio 2017\Projects\snake-master\Snake\bin\Debug\Snake.pdb
+C:\Users\P501\Documents\Visual Studio 2017\Projects\snake-master\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\P501\Documents\Visual Studio 2017\Projects\snake-master\Snake\obj\Debug\Snake.Snakeform.resources
+C:\Users\P501\Documents\Visual Studio 2017\Projects\snake-master\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\P501\Documents\Visual Studio 2017\Projects\snake-master\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\P501\Documents\Visual Studio 2017\Projects\snake-master\Snake\obj\Debug\Snake.exe
+C:\Users\P501\Documents\Visual Studio 2017\Projects\snake-master\Snake\obj\Debug\Snake.pdb
